@@ -28,4 +28,4 @@ Run command below if you want to create order, you should give client id, produc
 
 
 
-<p align="center"><a><img src="./public/image/test.png" width="400"></a></p>
+<p align="center"><a><img src="./public/image/test.png"></a></p>
