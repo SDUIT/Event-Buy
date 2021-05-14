@@ -26,6 +26,5 @@ Run command below if you want to create order, you should give client id, produc
 #### Example
 - php artisan order:buy --userId=1 --productIds=1,2,3 --price=110
 
+![](./public/image/test.png)
 
-
-<p align="center"><a><img src="./public/image/test.png"></a></p>
